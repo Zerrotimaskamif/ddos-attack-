@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("Attack DDos")
 print
-print "name     : Aska"
+print "I Am     : ASKA"
 print "You Tube : https://youtube.com/channel/UCa6c5Ur37He6bICfqHHcGww"
 print "github   : https://github.com/Zerrotimaskamif"
 print 
